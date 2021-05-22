@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CariWisata.iml" filepath="$PROJECT_DIR$/.idea/modules/CariWisata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CariWisata.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CariWisata.app.iml" />
+    </modules>
+  </component>
+</project>
